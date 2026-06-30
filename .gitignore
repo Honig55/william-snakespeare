@@ -150,9 +150,7 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv/bin/
-.venv/include/
-.venv/pyvenv.cfg
+.venv/
 env/
 venv/
 ENV/
