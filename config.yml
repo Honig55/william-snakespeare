@@ -1,0 +1,4 @@
+# training weights
+hunger_weight: 1.0
+kills_weight: 2.0
+lifetime_weight: 0.5
