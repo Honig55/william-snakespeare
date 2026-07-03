@@ -1,5 +1,5 @@
 #import torch
-import debugger
+import helpers.debugger as debugger
 import game
 
 dbg = debugger.Debugger(active=True, show_time_stamp=True)
