@@ -1,6 +1,7 @@
 #import torch
 import helpers.debugger as debugger
-import game
+import battlesnake_objects as game
+import agent
 
 dbg = debugger.Debugger(active=True, show_time_stamp=True)
 

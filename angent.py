@@ -1,4 +1,4 @@
-from game import Game, Gameobject, Board
+from battlesnake_objects import Game, Gameobject, Board
 
 class Agent:
 

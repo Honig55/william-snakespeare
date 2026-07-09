@@ -1,5 +1,5 @@
 from agent import Agent as BaseAgent
-from game import Game
+from battlesnake_objects import Game
 import hisss
 
 

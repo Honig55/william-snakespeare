@@ -4,7 +4,7 @@ import time
 from flask import Flask
 from flask import request
 
-from game import Game
+from battlesnake_objects import Game
 from agent import Agent as BaseAgent
 
 
